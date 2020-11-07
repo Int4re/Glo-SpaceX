@@ -1,2 +1,2 @@
 Промосайт компании «SpaceX».
-Доступен по адресу https://int4re.github.io/spaceX/.
+Доступен по адресу https://tsyp96.github.io/spaceX/.
